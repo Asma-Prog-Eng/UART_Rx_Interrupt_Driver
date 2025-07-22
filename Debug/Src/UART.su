@@ -1,0 +1,6 @@
+C:/Users/asmae/OneDrive/Bureau/STM32_Projects/Discovery_Board/UART_Receiver_Interrupt_Driver/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/UART.c:57:6:uart_init	16	static,ignoring_inline_asm
+../Src/UART.c:116:6:uart_read	16	static
+../Src/UART.c:131:6:uart_write	16	static
+../Src/UART.c:146:6:GPIO_Init	4	static
+../Src/UART.c:186:7:BaudeRate	16	static
